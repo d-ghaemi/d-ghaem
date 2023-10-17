@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <title>Curriculum Vitae</title>
     <style>
-        h1{ text-align: center}
-        pre{text-align: center}
+        h1{ text-align: center;}
+        pre{text-align: center;}
         h2{ padding: 10px;
         display: inline;
             
