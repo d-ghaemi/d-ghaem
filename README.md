@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <title>Curriculum Vitae</title>
     <style>
-        .gg { text-align: center}
-        .tt{text-align: center}
+        h1 { text-align: center}
+        pre{text-align: center}
         h2{ padding: 10px;
         display: inline;
             
@@ -38,8 +38,8 @@
 </head>
 <body bgcolor= "#F1F2FA">
    
-   <h1 class="gg">Dariush Ghaemi </h1>
-    <pre class="tt"> Tel: +989399747948 | Email: ghaemye@gmail.com | in:  dariush-ghaemi-00705a227</pre>
+   <h1>Dariush Ghaemi </h1>
+    <pre> Tel: +989399747948 | Email: ghaemye@gmail.com | in:  dariush-ghaemi-00705a227</pre>
     <h2>Research Interests</h2>
     <pre><b>Information Theory, Image Processing, Machine Learning, Data Science, Optimization</b></pre>
     <h2>Education</h2>
