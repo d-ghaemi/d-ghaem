@@ -2,6 +2,7 @@
 title: Your awesome title
 email: your-email@example.com
 description: >- # this is my homepage
+
 {% include resume.html %}
 
 baseurl: "" # the subpath of your site, e.g. /blog
