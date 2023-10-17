@@ -4,58 +4,62 @@
     <meta charset="UTF-8">
     <title>Curriculum Vitae</title>
     <style>
-        h1 { text-align: center;}
-        pre{text-align: center;}
-        h2{ padding: 10px;
-        display: inline;
-            
+        body {
+            background-color: #F1F2FA;
         }
-        pre{padding: 10px;
+        h1, pre {
+            text-align: center;
         }
-        
-    a:link{ text-decoration:none;
-        background-color: #B5FCB6;
-        color: green;
-        font-size: 12px;
-        padding: 6px;
-        display: inline-block;
-        border-radius: 10px;}
+        h2, pre {
+            padding: 10px;
+            display: inline;
+        }
+        a {
+            text-decoration: none;
+            font-size: 12px;
+            padding: 6px;
+            display: inline-block;
+            border-radius: 10px;
+        }
+        a:link {
+            background-color: #B5FCB6;
+            color: green;
+        }
         a:visited {
             background-color: #EE77F6;
             color: white;
-            font-size: 12px;
         }
         a:hover {
             background-color: #F6F655
         }
         a:active {
-            
             background-color: palevioletred;
         }
-       
-    
     </style>
 </head>
-<body bgcolor= "#F1F2FA">
-   
-   <h1>Dariush Ghaemi </h1>
-    <pre> Tel: +989399747948 | Email: ghaemye@gmail.com | in:  dariush-ghaemi-00705a227</pre>
+<body>
+    <h1>Dariush Ghaemi</h1>
+    <pre>Tel: +989399747948 | Email: ghaemye@gmail.com | in: dariush-ghaemi-00705a227</pre>
     <h2>Research Interests</h2>
     <pre><b>Information Theory, Image Processing, Machine Learning, Data Science, Optimization</b></pre>
+    <!-- Education Section -->
     <h2>Education</h2>
+    <!-- Sharif University of Technology -->
     <pre>
 <b>Sharif University of Technology</b>                                                                                                                         Sep. 2019 - Present  
 BSc in Electrical Engineering
 Current GPA: 17.82/20
-         </pre>
-<pre>
+    </pre>
+    <!-- Allameh Helli High School -->
+    <pre>
 <b>Allameh Helli High School</b>                                                                                                                             Sep. 2016 - Jun. 2019
 Diploma in Physics and Mathematics
 GPA: 19.63/20
-</pre>
-<h2>Research Projects</h2>
-<pre><b>Design and Implementation of Distributed Dimensionality Reduction Algorithms Under</b>
-<b>Communication Constraints</b>                                                                                                                               Jun. 2023 - Present
+    </pre>
+    <!-- Research Projects Section -->
+    <h2>Research Projects</h2>
+    <!-- Project Details -->
+    <pre><b>Design and Implementation of Distributed Dimensionality Reduction Algorithms Under Communication Constraints</b>                                                                                                                               Jun. 2023 - Present
 Research Project, Advisor: Prof. M. H. Yassaee
 • The problem can be interpreted as covariance matrix estimation.
 • I’m currently trying to provide a tight bound for estimation error.
@@ -67,7 +71,9 @@ BS Project, Advisor: Prof. M. Hashemi
 <b>Research on Regret-bounds and Information-Theoretic limits in No-Regret Algorithms</b>                                                                    Oct. 2021 - Feb. 2022
 Course Project, Advisor: Prof. M. H. Yassaee
 • Read several journal papers and books, including Bandit Algorithms by Csaba Szepesvari and Tor Lattimore</pre>
-<h2>Work Experience</h2>
+    <!-- Work Experience Section -->
+    <h2>Work Experience</h2>
+    <!-- Work Details -->
     <pre><b>Computer Vision Engineer</b>                                                                                                                               Mar. 2022 - May 2023
 RetinaTech<a href="https://retina.tech/"> Link</a>
 • Quality Control using computer vision in industry
@@ -80,29 +86,3 @@ Sharif University of Technology
 <b>Secondary School Teacher and Curriculum Advisor</b>                                                                                                       Jun. 2019 - Sep. 2021
 Allameh Helli High School
 • 15 hours per week in each semester
-<b>Secondary School Teacher</b>                                                                                                                                        Summer 2020
-Mandegar Alborz High School
-• 15 hours per week in each semester</pre>
-<h2>Awards and Honors</h2>
-<pre>
-Jul. 2023           <b>Ranked among the top 30% of the class of 2023</b>, B.Sc. in Electrical Engineering program at Sharif University
-of Technology
-Sep. 2018           <b>Golden Medal</b> in the National Physics Olympiad (Exams included classical mechanics, thermodynamics and data
-analysis.)</pre>
-<h2>Skills</h2>
-<pre>
-<b>Python Programming</b> OpenCV, CVXPY, PyTorch, Keras, TensorFlow, PySpark
-<b>Programming</b> Python, C, C++, Java/JavaScript, MATLAB
-<b>Software</b> LATEX, Simulink
-Languages Persian (Native), English (C1-Advanced)
-</pre>
-<h2>References</h2>
-<pre>
-• Prof. M. Hashemi
-Associate Professor, Department of Electrical Engineering, Sharif University of Technology , Tehran, Iran
-Tel: +98 (21) 66164307 Email: matin@sharif.edu
-• Prof. M. H. Yassaee
-Assistant Professor, Department of Electrical Engineering, Sharif University of Technology , Tehran, Iran
-Tel: +98 (21) 66164383 Email: yassaee@sharif.edu</pre>
-</body>
-</html>
